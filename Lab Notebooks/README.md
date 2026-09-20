@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-This handbook defines how the team documents, reviews, and preserves work for **Algorithmic Markets: AI and Quantitative Decision Systems**, a Principal Financial–funded student project planned for September 2026 through April 2027.
+This handbook defines how the team documents, reviews, and preserves work for **Algorithmic Markets: AI and Quantitative Decision Systems**, a Principal Financial–funded student project planned for September 23, 2026 through April 2027.
 
 The goal is not to create paperwork for its own sake. A notebook entry should make it possible for another approved team member to understand:
 
@@ -29,7 +29,7 @@ Planned activities include:
 - Hosting recurring workshops, demonstrations, interdisciplinary events, and outreach programming.
 - Maintaining reusable educational materials and documented examples for future semesters.
 
-The expected direct reach is approximately 20–30 students during the academic year. The equipment and materials are intended to support recurring programming beyond a single event.
+The core cohort has five accepted student contributors. The original 20–30-student reach figure is an outreach planning target, not the size of the cohort or a completed result. Report unique workshop attendees separately from repeat attendance and contributor participation. The equipment and materials are intended to support recurring programming beyond a single event.
 
 ## 3. Funding and equipment baseline
 
@@ -41,7 +41,7 @@ The project proposal identifies a total requested amount of **$773.94**:
 | Texas Instruments BA II Plus financial calculator | 6 | $45.99 | $275.94 | Time value of money, discounted cash flow, NPV, IRR, amortization, and quantitative decision-making exercises |
 | **Total** |  |  | **$773.94** |  |
 
-This table is the project’s planning baseline from the application. It is not by itself permission to spend, change quantities, or substitute products. Sanchin and Cail should document equipment decisions, quotes, purchases, custody, setup, and condition in the relevant notebook entries. Material funding changes should be documented by the project leads and included in the next funder check-in.
+This table is the project’s planning baseline from the application. It is not by itself permission to spend, change quantities, or substitute products. Raymundo should document equipment decisions, quotes, purchases, custody, setup, and condition in the relevant notebook entries. Material funding changes should be documented by the project leads and included in the next funder check-in.
 
 ## 4. Scope
 
@@ -68,28 +68,28 @@ The project does **not** authorize or support:
 - Collecting, storing, or analyzing personally identifiable financial information, brokerage credentials, account numbers, or private client data.
 - Publishing secrets, API keys, access tokens, passwords, or private data.
 - Making claims that a model is accurate without documenting its test design, limitations, and uncertainty.
-- Deploying software to production systems or external services without explicit approval from Sanchin and Cail.
+- Deploying software to production systems or external services without explicit approval from Raymundo.
 - Expanding the project into unrelated software, hardware, or financial products without a recorded scope decision.
 
-Any proposed work that appears to cross the boundary must be paused and raised with Sanchin and Cail before implementation.
+Any proposed work that appears to cross the boundary must be paused and raised with Raymundo before implementation.
 
 ## 5. Leadership and responsibilities
 
 | Role | Person(s) | Responsibilities |
 | --- | --- | --- |
 | Funder check-in contact | Summer Malik | Performs periodic check-ins summarizing group progress for the funder. Summer is not responsible for day-to-day execution, project decisions, or contributor management. |
-| Project leads and day-to-day owners | Sanchin and Cail | Lead the whole project: set and manage working scope, plan technical work, approve contributors, assign tasks, support contributors, review notebook entries, coordinate workshops, maintain shared standards, manage deliverables, and escalate organization-level issues when needed. |
+| Sole project lead and day-to-day owner | Raymundo | Lead the whole project: set and manage working scope, plan technical work, approve contributors, assign tasks, support contributors, review notebook entries, coordinate workshops, maintain shared standards, manage deliverables, and escalate organization-level issues when needed. |
 | Contributor | Approved student applicant | Complete assigned work, create timely notebook entries, preserve evidence, disclose limitations and failures, follow data/security rules, and request review when work is ready. |
-| Notebook reviewer | Sanchin, Cail, or an assigned approved reviewer | Check completeness, reproducibility, scope alignment, evidence, and educational clarity. A reviewer should not silently rewrite an experiment’s conclusions. |
+| Notebook reviewer | Raymundo or an assigned peer reviewer | Check completeness, reproducibility, scope alignment, evidence, and educational clarity. A reviewer should not silently rewrite an experiment’s conclusions. |
 | Workshop owner | Assigned lead or contributor | Prepare learning objectives, materials, setup instructions, safety notes, timing, exercises, and post-workshop observations. |
 
-When responsibilities overlap, Sanchin and Cail decide the project’s working direction. The person who performs the work remains responsible for the first complete record. Review transfers quality control, not authorship. Summer’s check-ins are funder-facing progress summaries and do not replace the detailed entries created by the people doing the work.
+When responsibilities overlap, Raymundo decides the project’s working direction. The person who performs the work remains responsible for the first complete record. Review transfers quality control, not authorship. Summer’s check-ins are funder-facing progress summaries and do not replace the detailed entries created by the people doing the work.
 
 ### 5.1 Decision rights
 
-- Sanchin and Cail own decisions about day-to-day execution, working scope, contributor assignments, technical methods, notebook review, workshops, and project deliverables.
-- Sanchin and Cail own project-facing and sponsor-facing decisions within the approved scope. They provide the reviewed facts and milestones used in Summer’s periodic funder check-ins.
-- Any proposed live financial integration, use of restricted data, material spending change, or public claim must be paused and reviewed by Sanchin and Cail before proceeding.
+- Raymundo owns decisions about day-to-day execution, working scope, contributor assignments, technical methods, notebook review, workshops, and project deliverables.
+- Raymundo owns project-facing and sponsor-facing decisions within the approved scope. Raymundo provides the reviewed facts and milestones used in Summer’s periodic funder check-ins.
+- Any proposed live financial integration, use of restricted data, material spending change, or public claim must be paused and reviewed by Raymundo before proceeding.
 - Contributors may prototype freely within an approved task, but they must document the prototype and must not represent an unreviewed result as an official project result.
 - If a decision is unclear, record the question in the notebook and escalate it before proceeding.
 
@@ -107,14 +107,14 @@ Use one directory per contributor for personal work and shared folders for mater
     ├── Summer/                            # Summer’s entries
     ├── Sanchin/                           # Sanchin’s entries
     ├── Cail/                               # Cail’s entries
-    ├── Raymundo/                           # Raymundo’s entries, if participating
+    ├── Raymundo/                           # Raymundo’s project-lead entries
     └── example/                            # Safe examples and reference material
 ```
 
-Recommended additions as the project grows:
+Shared work belongs at the repository root (not inside personal notebooks):
 
 ```text
-Lab Notebooks/
+.
 ├── shared/
 │   ├── workshops/                         # Lesson plans and delivery notes
 │   ├── datasets/                          # Metadata only; do not commit restricted data
@@ -134,9 +134,9 @@ YYYY-MM-DD_<owner>_<short-slug>.md
 Examples:
 
 ```text
-2026-09-08_sanchin_jetson-setup.md
-2026-09-18_cail_baseline-time-series.md
-2026-10-02_summer_workshop-scope-review.md
+2026-09-23_raymundo_kickoff.md
+2026-09-30_contributor_baseline-time-series.md
+2026-10-07_summer_group-progress.md
 ```
 
 Use lowercase kebab-case for the slug. Keep the original date and entry file unchanged after creation. If an entry needs correction, add a dated correction note or a new linked entry; do not erase the historical record.
@@ -218,7 +218,7 @@ Compare the result to a baseline or stated expectation. Identify uncertainty, po
 
 ### Step 6: Review and close
 
-Request review from Sanchin, Cail, or the assigned reviewer. Address comments in the entry or in a linked follow-up. Mark the entry `complete` only when required fields are filled and the reviewer agrees that the result is understandable and appropriately scoped.
+Request review from Raymundo or the assigned peer reviewer. Address comments in the entry or in a linked follow-up. Mark the entry `complete` only when required fields are filled and the reviewer agrees that the result is understandable and appropriately scoped.
 
 ## 9. Reproducibility standard
 
@@ -283,7 +283,7 @@ Never commit:
 - Confidential sponsor or partner information.
 - Data whose license or permission does not allow the intended use.
 
-If a secret or private record is accidentally exposed, stop using it, notify Sanchin and Cail immediately, remove it from active use, and document the incident without copying the secret into the notebook. Removing a line from the latest file is not sufficient if the secret entered version history.
+If a secret or private record is accidentally exposed, stop using it, notify Raymundo immediately, remove it from active use, and document the incident without copying the secret into the notebook. Removing a line from the latest file is not sufficient if the secret entered version history.
 
 ### 10.2 Data provenance
 
@@ -332,23 +332,25 @@ Use these gates to keep work moving while protecting quality.
 
 | Gate | When it applies | Required evidence | Approver |
 | --- | --- | --- | --- |
-| Scope check | New project idea, new dataset, new external service, or material change | Objective, scope, expected cost/risk, and out-of-scope check | Sanchin and Cail |
-| Technical check | New experiment, model, hardware procedure, or reusable code | Complete notebook entry, reproducible procedure, baseline, and limitations | Sanchin or Cail |
-| Workshop check | Lesson, demo, or public-facing activity | Learning objectives, setup, safety/privacy notes, disclaimer, and facilitator plan | Assigned lead, with Sanchin/Cail approval |
-| Release check | Official result, public material, sponsor-facing material, or final report | Reviewed entry, source links, accurate claims, and artifact inventory | Sanchin and Cail |
+| Scope check | New project idea, new dataset, new external service, or material change | Objective, scope, expected cost/risk, and out-of-scope check | Raymundo |
+| Technical check | New experiment, model, hardware procedure, or reusable code | Complete notebook entry, reproducible procedure, baseline, and limitations | Raymundo |
+| Workshop check | Lesson, demo, or public-facing activity | Learning objectives, setup, safety/privacy notes, disclaimer, and facilitator plan | Raymundo, after peer check |
+| Release check | Official result, public material, sponsor-facing material, or final report | Reviewed entry, source links, accurate claims, and artifact inventory | Raymundo |
 
 Review comments should be actionable. A reviewer may request a missing parameter, clearer claim, additional baseline, or better limitation statement. The author remains responsible for addressing the comment and recording material decisions.
 
 ## 13. Applications and onboarding
+
+The current cohort has five accepted students. The application template is retained for future cohorts; accepted students do not need to apply again. Raymundo assigns their onboarding tasks.
 
 The project may accept students who want to contribute to research-style documentation, quantitative finance, AI, data analysis, hardware, workshop design, or project coordination. Prior finance experience is not required when the applicant can explain how they will learn and contribute responsibly.
 
 ### 13.1 Applicant process
 
 1. Applicant submits a completed copy of [APPLICATION_TEMPLATE.md](APPLICATION_TEMPLATE.md).
-2. Sanchin or Cail reviews the applicant’s interests, availability, relevant experience, and proposed contribution.
-3. Sanchin or Cail conducts an orientation or short working session when needed.
-4. Sanchin and Cail confirm acceptance, role, lead, and any access or equipment restrictions.
+2. Raymundo reviews the applicant’s interests, availability, relevant experience, and proposed contribution.
+3. Raymundo conducts an orientation or short working session when needed.
+4. Raymundo confirms acceptance, role, lead, and any access or equipment restrictions.
 5. The contributor completes a small scoped onboarding task and creates the first notebook entry.
 6. The lead reviews the entry and confirms that the contributor understands the hygiene standard.
 
@@ -404,7 +406,7 @@ An experiment, setup task, or workshop artifact is complete only when:
 - Required review is complete.
 - The next action is either assigned or explicitly marked not needed.
 
-An official project deliverable is complete when Sanchin and Cail have reviewed and approved its content, scope, claims, and readiness for its intended educational use. Reviewed milestones and evidence can then be summarized in a periodic funder check-in.
+An official project deliverable is complete when Raymundo has reviewed and approved its content, scope, claims, and readiness for its intended educational use. Reviewed milestones and evidence can then be summarized in a periodic funder check-in.
 
 ## 16. Quick pre-commit checklist
 
@@ -429,3 +431,7 @@ Record material changes to this handbook below. Do not silently change a rule th
 | Date | Author | Change | Reason/decision |
 | --- | --- | --- | --- |
 | 2026-08-19 | Summer Malik | Initial team handbook created | Establish shared scope, project-lead responsibilities, application process, and notebook hygiene before accepting contributors |
+
+## 18. Alternate plan update — 2026-09-20
+
+Raymundo is the sole operational lead and final project approver for this five-student plan. Sanchin and Cail have no standing approval requirement. Summer retains periodic funder summaries. Historical authorship and records are preserved. Use [QUICK_ENTRY.md](QUICK_ENTRY.md) for routine work; experiments still require the reproducibility details above. See [team responsibilities](../Project%20Overview/TEAM.md), [task board](../Project%20Overview/TASKS.md), and [alternate plan record](../ALTERNATE_PLAN.md).

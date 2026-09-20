@@ -1,69 +1,28 @@
-# Project Roadmap
+# Roadmap: September 23, 2026–April 2027
 
-This roadmap is a planning skeleton for September 2026 through April 2027. Sanchin and Cail may adjust task order as the project develops; material changes should be documented in the lab notebooks.
+Raymundo owns this schedule. The start and role-assignment date is September 23, 2026. Later dates below are proposed targets; Raymundo confirms meeting times and task deadlines with the five students.
 
-## Phase map
+| Window | Main work | Completion evidence |
+| --- | --- | --- |
+| September 23, 2026 | Kick off the project; assign all five roles and peer reviewers; confirm availability, access, equipment condition, and challenge question | Assigned task board, inventory, five onboarding entries |
+| September 23–October 14 | Configure both Jetsons; reproduce calculator exercise and baseline | Setup guide tested by a second person; recorded calculator result; runnable baseline |
+| October–November | Session 1: financial assumptions; Session 2: data and baseline; start one model comparison | Two lesson packets, student outputs, feedback, reviewed comparison |
+| November–January | Session 3: Jetson deployment/runtime and sensitivity; integrate the analysis | Third packet, repeatable hardware measurements, complete analysis workflow |
+| January–March | Rehearse and deliver one Decision Challenge demonstration; offer outreach if capacity permits | Decision brief, demo record, aggregate attendance and feedback |
+| March–April | Reproduce with a different operator, fix instructions, archive and report | Artifact index, reuse check, equipment handover, reviewed final summary |
 
-```mermaid
-timeline
-    title Algorithmic Markets — planned project phases
-    September–October 2026 : Equipment acquisition and setup
-                              : Lead training
-                              : Notebook and safety orientation
-    October 2026–January 2027 : Curriculum development
-                                : Pilot workshops
-                                : Baseline modeling examples
-    January–April 2027 : Recurring workshops
-                         : Interdisciplinary events
-                         : Outreach and reusable materials
-                         : Final progress summary
-```
+## Minimum scope
 
-## Milestones
+Three distinct guided sessions for the cohort, one shared analysis, one short decision brief, and one demonstration. The sessions are learning experiences; they are not automatically three public events. Additional workshops and models are optional after the core package works.
 
-| Window | Phase | Main work | Evidence of completion | Lead |
-| --- | --- | --- | --- | --- |
-| September 2026 | Foundation | Confirm equipment, repository workflow, contributor intake, and safety/data rules | Setup entries, approved scope, onboarding records | Sanchin and Cail |
-| September–October 2026 | Technical preparation | Configure Jetson kits, test calculators, and create first reproducible examples | Hardware logs, environment details, first reviewed notebook entries | Sanchin and Cail |
-| October–November 2026 | Curriculum build | Write learning objectives, exercises, examples, and facilitator notes | Draft workshop packets and pilot review notes | Sanchin and Cail with contributors |
-| November 2026–January 2027 | Pilot delivery | Run initial demonstrations and collect structured observations | Workshop notes, participant feedback, revisions | Sanchin and Cail |
-| January–March 2027 | Recurring programming | Deliver workshops and interdisciplinary events; onboard additional contributors as needed | Event records, reusable materials, progress summaries | Sanchin and Cail |
-| March–April 2027 | Consolidation | Refine examples, archive results, summarize reach and lessons learned | Final artifact index, documented limitations, final progress record | Sanchin and Cail |
+## Milestone checks
 
-## Phase gates
+- Ready to build: each student has an owner/reviewer relationship, setup access, a scoped task, and an understood data source.
+- Ready to teach: another student has tested the exercise; data, assumptions, baseline, limitations, and expected outputs are written down; Raymundo approves.
+- Ready to reuse: a different operator reproduces the intended result; files and commands are linked; failures and conditions are preserved.
 
-### Gate 1: Ready to build
+## Weekly operation
 
-- Project scope and out-of-scope rules are understood.
-- Equipment and access are documented.
-- Contributors know how to create a notebook entry.
-- No private financial data or secrets are being used.
+Kickoff and role assignments: **Wednesday, September 23, 2026**. Raymundo confirms the meeting time in Eastern Time. Subsequent Wednesday dates are planning targets until he confirms student availability; no calendar invitations have been sent.
 
-### Gate 2: Ready to teach
-
-- Each lesson has a learning objective and expected student output.
-- The example has a baseline or a reason one is not applicable.
-- Data source, assumptions, metrics, and limitations are written down.
-- The financial education disclaimer is visible.
-- A project lead has reviewed the materials.
-
-### Gate 3: Ready to reuse
-
-- A new contributor can follow the setup and reproduce the intended result.
-- Outputs are named and linked.
-- Known failures and limitations are preserved.
-- The material is appropriate for the stated audience and does not overclaim.
-
-## Reporting rhythm
-
-Sanchin and Cail maintain the detailed project record. Summer periodically prepares a short [funder check-in](../Lab%20Notebooks/Summer/readme.md) based on completed, reviewed evidence. A check-in should report what changed since the last update, what is currently active, what is blocked, and what is next.
-
-## Open planning questions
-
-Record answers in the relevant notebook entry rather than silently deciding them here:
-
-- Which workshops should be piloted first?
-- Which public or simulated datasets best match the intended audience?
-- Which contributor roles are needed after the first onboarding round?
-- What format will be used to collect participant feedback?
-- Which outputs should be preserved for the next academic year?
+Raymundo updates the [task board](TASKS.md) at the weekly check-in. Keep one primary active task per student. Review blockers before adding work. Reserve Jetson time before sessions. Summer's periodic funder summary uses only reviewed evidence and distinguishes targets from actual results.

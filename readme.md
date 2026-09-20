@@ -1,28 +1,35 @@
-# Algorithmic Markets: AI and Quantitative Decision Systems
+# Algorithmic Markets — RMC alternate plan
 
-This repository supports a Principal Financial–funded student project that introduces students to the intersection of quantitative finance, artificial intelligence, data science, and computational decision-making.
+A five-student project connecting quantitative finance, data analysis, and AI through one shared Decision Challenge. **Raymundo Munoz Cuevas is the sole day-to-day project lead.**
 
-The project is planned for September 2026 through April 2027. It will use two NVIDIA Jetson Orin Nano Super Developer Kits and six Texas Instruments BA II Plus calculators for workshops, demonstrations, and student-led exploration of financial data, machine learning, time-series analysis, valuation, and quantitative reasoning.
+This is an alternate operating plan based on [hackwithhavk/QuantitativeFinance](https://github.com/hackwithhavk/QuantitativeFinance). It preserves the original repository history and learning topics. It does not represent a change to the upstream repository or a new funding approval.
 
-## Start here
+| Item | Plan |
+| --- | --- |
+| Period | September 23, 2026–April 2027 |
+| Cohort | Five accepted student contributors |
+| Day-to-day lead and final project reviewer | Raymundo |
+| Funder check-ins | Summer, using evidence reviewed by Raymundo |
+| Equipment | Two NVIDIA Jetson Orin Nano Super Developer Kits; six TI BA II Plus calculators |
+| Core outcome | Three guided learning sessions, one reproducible shared analysis, one decision brief, and one demonstration |
 
-- [Lab notebook hygiene and project handbook](Lab%20Notebooks/README.md)
-- [Reusable lab notebook entry template](Lab%20Notebooks/TEMPLATE.md)
-- [Applicant intake template](Lab%20Notebooks/APPLICATION_TEMPLATE.md)
+## Start working
 
-All project work should be documented according to the handbook before it is treated as a completed result. The handbook is the source of truth for scope, ownership, documentation, review, reproducibility, data handling, and onboarding.
+1. Read [Start here](START_HERE.md).
+2. Check the [team responsibilities](Project%20Overview/TEAM.md) and [task board](Project%20Overview/TASKS.md).
+3. Follow the [roadmap](Project%20Overview/ROADMAP.md).
+4. Record work with the [short entry template](Lab%20Notebooks/QUICK_ENTRY.md), or the [full experiment template](Lab%20Notebooks/TEMPLATE.md).
 
-## Project leadership
+## Project references
 
-- **Organization president and idea originator:** Summer
-- **Vice President, Project lead, day-to-day owners:** Cail
- **Executive Coordinator, Project lead, day-to-day owners:** Sanchin
-- **Contributors:** Approved student applicants and project participants
+- [Overview and unchanged learning materials](Project%20Overview/README.md)
+- [Workstreams and deliverables](Project%20Overview/WORKSTREAMS.md)
+- [Impact and organizer responsibilities](Project%20Overview/IMPACT.md)
+- [Decision Challenge brief](Project%20Overview/DECISION_CHALLENGE.md)
+- [Equipment schedule](Project%20Overview/EQUIPMENT.md)
+- [Lab handbook](Lab%20Notebooks/README.md)
+- [Changes from the original plan](ALTERNATE_PLAN.md)
 
-## Detailed project documents
+Work uses public or simulated data for education. Financial examples are not investment advice, guarantees of returns, or a live trading system.
 
-- [Project overview: the problem, solution, impact, and boundaries](Project%20Overview/README.md)
-- [Project roadmap and milestones](Project%20Overview/ROADMAP.md)
-- [Project workstreams and deliverables](Project%20Overview/WORKSTREAMS.md)
-- [Real-world impact plan and Decision Challenge](Project%20Overview/IMPACT.md)
-- [Lab notebook handbook and hygiene standard](Lab%20Notebooks/README.md)
+See the [project calendar](Project%20Overview/CALENDAR.md) for the September 23 kickoff and role assignments, followed by proposed milestone dates.

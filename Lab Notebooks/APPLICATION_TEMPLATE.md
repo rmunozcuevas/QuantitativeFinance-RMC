@@ -1,13 +1,13 @@
 # Project Contributor Application
 
-> Submit a completed copy to Sanchin, Cail, or the designated project lead. Do not include passwords, private financial information, student identification numbers, or other sensitive information.
+> Submit a completed copy to Raymundo. Do not include passwords, private financial information, student identification numbers, or other sensitive information.
 
 ## Applicant information
 
 - Name:
 - University email:
 - Preferred name/pronouns, if relevant:
-- Expected availability during September 2026–April 2027:
+- Expected availability during September 23, 2026–April 2027:
 - Preferred communication channel:
 
 ## Interest and fit

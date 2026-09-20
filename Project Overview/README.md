@@ -6,12 +6,12 @@
 | --- | --- |
 | Project | Algorithmic Markets: AI and Quantitative Decision Systems |
 | Funding context | Principal Financial–funded student project |
-| Planned period | September 2026–April 2027 |
-| Project leads | Sanchin and Cail |
+| Planned period | September 23, 2026–April 2027 |
+| Sole day-to-day project lead | Raymundo Munoz Cuevas |
 | Funder check-in contact | Summer Malik; periodic progress updates only |
-| Direct reach | Approximately 20–30 students during the academic year |
+| Direct reach | Five accepted student contributors; workshop attendance reported separately |
 | Core equipment | Two NVIDIA Jetson Orin Nano Super Developer Kits and six Texas Instruments BA II Plus calculators |
-| Primary format | Hands-on workshops, demonstrations, experiments, and reusable educational material |
+| Primary format | One five-student team; three guided sessions, one shared analysis, decision brief, and demonstration |
 
 This page explains the project at a level that someone new to the repository can understand in a few minutes. The detailed operating rules live in the [lab notebook handbook](../Lab%20Notebooks/README.md).
 
@@ -119,14 +119,14 @@ Every financial example must be presented as educational and research-oriented. 
 flowchart LR
     A[Applicants and contributors] --> B[Scoped tasks]
     B --> C[Notebook entries and artifacts]
-    C --> D[Review by Sanchin/Cail]
+    C --> D[Review by Raymundo]
     D --> E[Workshop or reusable deliverable]
     E --> F[Periodic funder check-in]
     F --> G[Next phase or follow-up task]
     G --> B
 ```
 
-Sanchin and Cail lead the work and review the evidence. Summer periodically summarizes progress for the funder. The [lab notebook handbook](../Lab%20Notebooks/README.md) defines the required evidence and review standard.
+Raymundo leads the work and review the evidence. Summer periodically summarizes progress for the funder. The [lab notebook handbook](../Lab%20Notebooks/README.md) defines the required evidence and review standard.
 
 ## 8. Success measures
 
@@ -137,7 +137,7 @@ The project is progressing well when:
 - Students can distinguish a model output from a validated conclusion.
 - Hardware and educational materials are reusable across multiple events.
 - Each major result has a clear baseline, data provenance, assumptions, limitations, and reviewer.
-- The project reaches approximately 20–30 students while maintaining a safe, educational scope.
+- All five contributors complete meaningful work; wider outreach is reported separately against the original 20–30-student planning target.
 
 ## Related documents
 
@@ -146,3 +146,7 @@ The project is progressing well when:
 - [Lab notebook hygiene handbook](../Lab%20Notebooks/README.md)
 - [Notebook entry template](../Lab%20Notebooks/TEMPLATE.md)
 - [Contributor application template](../Lab%20Notebooks/APPLICATION_TEMPLATE.md)
+
+## Alternate operating plan
+
+See [team](TEAM.md), [tasks](TASKS.md), and [equipment](EQUIPMENT.md). Raymundo alone owns day-to-day leadership and final project approval. Student reviewers check evidence without becoming additional leads. The learning topics and materials above remain unchanged.

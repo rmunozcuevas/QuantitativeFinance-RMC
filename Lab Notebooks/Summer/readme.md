@@ -1,6 +1,6 @@
 # Summer’s Funder Check-ins
 
-Summer’s role in this project is limited to periodic check-ins summarizing group progress to send back to the funder. Sanchin and Cail lead the project.
+Summer’s role in this project is limited to periodic check-ins summarizing group progress to send back to the funder. Raymundo leads the project.
 
 These updates are short status summaries, not project-management records. Detailed experiments, decisions, workshop notes, and technical evidence belong in the project-lead and contributor notebooks.
 
@@ -21,7 +21,7 @@ Use this structure:
 
 - Reporting period:
 - Written by: Summer Malik
-- Project leads: Sanchin and Cail
+- Project lead: Raymundo
 
 ## Progress since the last check-in
 
@@ -35,14 +35,14 @@ Use this structure:
 
 ## Evidence of progress
 
-- Students reached or expected reach:
+- Core contributors (5 accepted); unique workshop attendees; total attendance visits; planned outreach reported separately:
 - Workshops/events:
 - Skills or learning outcomes:
 
 ## Blockers or changes worth reporting
 
 - [Issue]
-- [How the project leads are handling it]
+- [How Raymundo is handling it]
 
 ## Upcoming milestones
 
@@ -53,4 +53,4 @@ Use this structure:
 - [Related project-lead or contributor entries]
 ```
 
-Keep these updates concise and factual. Do not invent metrics, claim ownership of work completed by contributors, make project decisions, or present an unreviewed experiment as an official result. Link back to the detailed records maintained by Sanchin, Cail, and the contributors.
+Keep these updates concise and factual. Do not invent metrics, claim ownership of work completed by contributors, make project decisions, or present an unreviewed experiment as an official result. Link back to the detailed records maintained by Raymundo and the contributors.

@@ -13,7 +13,7 @@
 | Date/time completed | `[YYYY-MM-DD HH:MM ET or N/A]` |
 | Status | `planned / in progress / blocked / needs review / complete / superseded / archived` |
 | Project area | `hardware / data / modeling / valuation / risk / workshop / operations / other` |
-| Lead | `[Sanchin, Cail, or assigned lead]` |
+| Lead | `[Raymundo]` |
 | Reviewer | `[Name]` |
 | Related task/issue | `[Link or N/A]` |
 | Related entries | `[Links or N/A]` |
@@ -119,7 +119,7 @@ Choose one and explain it:
 - [ ] Continue as planned
 - [ ] Revise the method and repeat
 - [ ] Stop; result is not useful for the stated purpose
-- [ ] Escalate to Sanchin and Cail for a scope, risk, funding, or external-communication decision; involve Summer when organization-level commitments are affected
+- [ ] Escalate to Raymundo for a scope, risk, funding, or external-communication decision; involve Summer when organization-level commitments are affected
 - [ ] Mark complete for the stated educational purpose
 
 Decision rationale:
