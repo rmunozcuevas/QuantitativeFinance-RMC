@@ -1,4 +1,4 @@
-# Algorithmic Markets — RMC alternate plan
+# Algorithmic Markets — RMC alternate plan (ALL CREDITS TO SUMMER MALIK)
 
 A five-student project connecting quantitative finance, data analysis, and AI through one shared Decision Challenge. **Raymundo Munoz Cuevas is the sole day-to-day project lead.**
 
